@@ -1,0 +1,19 @@
+# 524injunction.com
+
+> Section 524 of the Bankruptcy Code permanently bars creditors from collecting discharged debts. Learn how the discharge injunction protects you, what to do if a creditor violates it, and how to enforce your rights.
+
+## About
+
+524injunction.com explains Section 524 of the Bankruptcy Code, the discharge injunction that permanently bars creditors from collecting discharged debts. The site covers how the injunction works, what actions it prohibits, how to identify and document violations, contempt of court remedies including actual and punitive damages, and frequently asked questions about post-discharge creditor conduct. Includes FAQ schema markup for common questions.
+
+## Key Pages
+
+- [Home](https://524injunction.com/): Complete guide to Section 524 -- the discharge injunction, creditor prohibitions, violation remedies, and FAQ
+
+## Network
+
+Part of the Open Bankruptcy Project (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "524injunction.com, Open Bankruptcy Project (2026)."
